@@ -1,7 +1,7 @@
 # Deep Learning PR 1 — Breast Cancer Classification (SLP → MLP → Regularization)
 
 **Red & White Skill Education · Deep Learning · PR 1**
-Author: *YOUR NAME* · GRID: *YOUR GRID*
+Author: *Tanna Herit* · GRID: *11431*
 
 ## Dataset
 Breast Cancer Wisconsin (Diagnostic), loaded with `sklearn.datasets.load_breast_cancer(as_frame=True)` (also on the [UCI repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)).
