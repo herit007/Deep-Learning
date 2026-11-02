@@ -2,7 +2,7 @@
 
 **Red & White Skill Education · Deep Learning · PR 2**
 Author: *Tanna Herit* · GRID: *11431*
-Explanation video link: 
+
 ## Dataset
 Adult Income (Census Income) dataset, 48,842 rows, 14 features, target = income `>50K` (1) or `<=50K` (0).
 UCI: https://archive.ics.uci.edu/dataset/2/adult · Kaggle: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
